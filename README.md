@@ -10,4 +10,3 @@ Id	uid	amount	fromUid	txTime
 
 The records shows there are 3 transactions from user (fromUid) 88 to user (uid) 101, amount are $50.50,$100 and $80.55
 How could we make sure the records especially the amount not been changed?
-
